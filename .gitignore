@@ -1,0 +1,10 @@
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+*.egg-info/
+dist/
+build/
+.venv/
+.uv/
+.claude/
+CLAUDE.md
